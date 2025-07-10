@@ -1,5 +1,3 @@
-# 👋 Welcome to my GitHub profile!
-
 I'm Erik Peng, a passionate developer and singer based in both **Chengdu** and **Jiangsu**, China. Outside of coding, you’ll also find me or capturing the world through my **camera lens** 🎤🏊📷.
 
 ---

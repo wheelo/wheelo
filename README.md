@@ -1,4 +1,4 @@
-I'm Erik Peng, a passionate developer and singer based in both **Chengdu** and **Jiangsu**, China. Outside of coding, you’ll also find me or capturing the world through my **camera lens** 🎤🏊📷.
+I'm Erik Peng, a passionate developer based in both **Chengdu** and **Jiangsu**, China. You’ll also find me singing or capturing the world through my **camera lens** 🎸. I speak Chinese and English.
 
 ---
 
@@ -36,7 +36,7 @@ If you’re interested in collaborating or building something together — feel 
 
 ## 📬 Get in Touch
 
-Looking for a collaborator or remote teammate?  
+Looking for a collaborator or remote teammate:
 Reach me via email: **dongmenwuhen@gmail.com**
 
 Thanks for stopping by! 🌟

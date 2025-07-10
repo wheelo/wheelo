@@ -1,4 +1,4 @@
-I'm Erik Peng, a passionate developer based in both **Chengdu** and **Jiangsu**, China. You’ll also find me singing or capturing the world through my **camera lens** 🎸. I speak Chinese and English.
+I'm Erik Peng, a passionate developer based in both **Chengdu** and **Jiangsu**, China. You’ll also find me singing or capturing the world through 📷 && 🎸. I speak Chinese and English.
 
 ---
 
@@ -13,9 +13,11 @@ My current interests include:
 
 ## 🛠 Tech Stack
 
-**Frontend:** React, Vue3, TypeScript, TailwindCSS, Flutter, React Native
-**Backend:** Python, Node.js, PyTorch, Mysql, Pandas, Postgres, Redis 
-**Tools:** Docker, VS Code, Trae
+- Frontend: React, Vue3, TypeScript, TailwindCSS, Flutter, React Native
+
+- Backend: Python, Node.js, PyTorch, Mysql, Pandas, Postgres, Redis 
+
+- Tools: Docker, VS Code, Reddit
 
 ---
 

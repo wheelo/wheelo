@@ -38,7 +38,7 @@ If you’re interested in collaborating or building something together — feel 
 
 ## 📬 Get in Touch
 
-Looking for a band partnership or collaborator or remote teammate:
+Looking for a collaborator or remote teammate:
 Reach me via email: **dongmenwuhen@gmail.com** or **wheelo@163.com**
 
 Thanks for stopping by! 🌟

@@ -13,7 +13,7 @@ My current interests include:
 
 ## 🛠 Tech Stack
 
-- Frontend: React, Vue3, TypeScript, TailwindCSS, Flutter, React Native
+- Frontend: React, Vue3, TypeScript, Flutter, React Native
 
 - Backend: Python, Node.js, PyTorch, Mysql, Pandas, Postgres, Redis 
 
@@ -26,7 +26,7 @@ My current interests include:
 - 🔧 Web & Mobile App Development  
 - 🧠 LLM Application Design & AI Workflow Integration & deployment
 - 🌐 Remote Collaboration
-- 📸 Photography
+- 📸 Photography & 🎸 Singing
 
 ---
 
@@ -38,7 +38,7 @@ If you’re interested in collaborating or building something together — feel 
 
 ## 📬 Get in Touch
 
-Looking for a collaborator or remote teammate:
+Looking for a band partnership or collaborator or remote teammate:
 Reach me via email: **dongmenwuhen@gmail.com** or **wheelo@163.com**
 
 Thanks for stopping by! 🌟

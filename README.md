@@ -13,9 +13,9 @@ My current interests include:
 
 ## 🛠 Tech Stack
 
-- Frontend: React, Vue3, TypeScript, Flutter, React Native
+- Frontend: React, Vue, TypeScript, Flutter, React Native
 
-- Backend: Python, Node.js, PyTorch, Mysql, Pandas, Postgres, Redis 
+- Backend: Nextjs, nodejs, Python, PyTorch, Pandas, Postgres, Mysql, Redis 
 
 - Tools: Docker, VS Code, Reddit
 

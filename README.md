@@ -17,7 +17,7 @@ My current interests include:
 
 - Backend: Nextjs, nodejs, Python, PyTorch, Pandas, Postgres, Mysql, Redis 
 
-- Tools: Docker, VS Code, Reddit
+- Tools: Electron, Docker, VS Code, MCP..
 
 ---
 
@@ -25,7 +25,6 @@ My current interests include:
 
 - 🔧 Web & Mobile App Development  
 - 🧠 LLM Application Design & AI Workflow Integration & deployment
-- 🌐 Remote Collaboration
 - 📸 Photography & 🎸 Singing
 
 ---

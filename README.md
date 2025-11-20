@@ -13,9 +13,9 @@ My current interests include:
 
 ## 🛠 Tech Stack
 
-- Frontend: React, Vue, TypeScript, Flutter, React Native, KMP
+- Frontend: React, Vue, TypeScript, Flutter, React Native
 
-- Backend: Nextjs, nodejs, Python, PyTorch, Pandas, Postgres, Supabase, Redis, ELK
+- Backend: Nextjs, nodejs, Python, PyTorch, Pandas, Postgre, Supabase, Redis, ELK
 
 - Tools: k8s, serverless, Electron, Docker, VSCode, MCP..
 

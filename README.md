@@ -74,7 +74,6 @@ Journal Article, 2015
 Master’s Thesis, 2016
 (This was my final graduation thesis focusing on stereo vision–based robot tracking.)
 
-⭐️ *feel free to star my projects or connect with me!*
 
 ## 🎨 Hobbies
 
@@ -93,9 +92,6 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
 
 ---
 
-
-Fun fact: my new name Frank River is inspired by Frank Ocean
-
 <p>
   <img src="https://img.shields.io/badge/AI%20Infra-%F0%9F%9A%80-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/LLMOps-%F0%9F%A4%96-purple?style=for-the-badge" />
@@ -103,3 +99,8 @@ Fun fact: my new name Frank River is inspired by Frank Ocean
   <img src="https://img.shields.io/badge/VS%20Code%20Extensions-%E2%9C%94%EF%B8%8F-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge" />
 </p>
+
+
+⭐️ *feel free to star my projects or connect with me!*
+
+*Fun fact: my new name Frank River is inspired by Frank Ocean*

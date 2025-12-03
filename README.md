@@ -64,14 +64,6 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
 
 📫 **Email me anytime:** **wheelo@163.com**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wheelo&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wheelo&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
@@ -87,6 +79,29 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
 
 ---
 
-⭐️ *If you like my work, feel free to star my projects or connect with me!*
+## Publications and Works
+Here are some works I published during university:
+
+[Object Tracking Based on Particle Filter with Improved Camshift](https://ascidatabase.com/ascidetail.php?doi=jas.2014.121.128)
+Journal of Applied Sciences, 2014
+DOI: 10.3923/jas.2014.121.128
+
+[Object Tracking Based on Camshift with Multi-feature Fusion](https://www.jsoftware.us/show-50-483-1.html)
+Journal of Software, 2014
+DOI: 10.4304/jsw.9.1.147-153
+
+[Face Tracking Based on Particle Filter with Multi-feature Fusion](https://journal.esperg.com/index.php/TIJEE/article/view/3035)
+TELKOMNIKA Indonesian Journal of Electrical Engineering, 2014
+DOI: 10.11591/telkomnika.v12i1.3381
+
+[Online Feature Selection for Multi-instance Learning in Object Tracking](https://www.cnki.com.cn/Article/CJFDTOTAL-ZGTB201510008.htm)
+Journal Article, 2015
+
+[Research on Mobile Robot Tracking Technology Based on Binocular Vision](https://cdmd.cnki.com.cn/Article/CDMD-10338-1016061375.htm)
+Master’s Thesis, 2016
+(This was my final graduation thesis focusing on stereo vision–based robot tracking.)
+
+⭐️ *feel free to star my projects or connect with me!*
+
 
 Fun fact: my name **Frank River** is inspired by *Frank Ocean*

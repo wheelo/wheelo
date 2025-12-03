@@ -22,13 +22,13 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 
 ---
 
-## 🧠 Tech Stack & Skills
+## Tech Stack & Skills
 
 ### 🔹 **Backend**
 - **Node.js**, PHP, Python  
 - MySQL, PostgreSQL  
 
-### 🔹 **AI & Infra**
+### 🔹 **AI Infra**
 - LLM, LLMOps, AI Infra, RAG Systems  
 - Model deployment & optimization  
 - vLLM / FastAPI / OpenAI / Model serving  
@@ -39,8 +39,9 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 - TypeScript / JavaScript  
 - VS Code & VS Code Extension Development (expert)
 
-### 🔹 **DevOps / Infra**
-- Kubernetes (K8s)  
+### 🔹 **DevOps**
+- Kubernetes (K8s) / Docker
+- Linux / Centos / shell
 - Docker / Nginx / CI&CD
 
 ### 🔹 **Cross-Platform Development**
@@ -92,7 +93,8 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
 
 ---
 
-## 🧩 Fun Badges
+
+Fun fact: my new name Frank River is inspired by Frank Ocean
 
 <p>
   <img src="https://img.shields.io/badge/AI%20Infra-%F0%9F%9A%80-blue?style=for-the-badge" />
@@ -101,8 +103,3 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
   <img src="https://img.shields.io/badge/VS%20Code%20Extensions-%E2%9C%94%EF%B8%8F-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge" />
 </p>
-
----
-
-
-Fun fact: my name Frank River is inspired by Frank Ocean

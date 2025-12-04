@@ -29,7 +29,7 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 - MySQL, PostgreSQL  
 
 ### 🔹 **AI Infra**
-- LLM, LLMOps, AI Infra, RAG Systems  
+- **LLM, LLMOps, AI Infra, MLLMs, AI Coding agents**
 - Model deployment & optimization  
 - vLLM / FastAPI / OpenAI / Model serving  
 - ReRank && Embedding

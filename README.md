@@ -32,22 +32,22 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 - LLM, LLMOps, AI Infra, RAG Systems  
 - Model deployment & optimization  
 - vLLM / FastAPI / OpenAI / Model serving  
-- Rerank and Embedding
+- ReRank && Embedding
 
 ### 🔹 **Frontend**
-- React, Vue  
+- **React**, Vue  
 - TypeScript / JavaScript  
-- VS Code & VS Code Extension Development (expert)
+- **VS Code & VS Code Extension Development**
 
 ### 🔹 **DevOps**
 - Kubernetes (K8s) / Docker
 - Linux / Centos / shell
-- Docker / Nginx / CI&CD
+- Nginx / CI&CD / jenkins / devcontainers..
 
 ### 🔹 **Cross-Platform Development**
 - React Native  
-- Flutter
-- know about KMP
+- **Flutter**
+- *know (a little bit) about KMP*
 
 ---
 
@@ -72,14 +72,15 @@ Journal Article, 2015
 
 [Research on Mobile Robot Tracking Technology Based on Binocular Vision](https://cdmd.cnki.com.cn/Article/CDMD-10338-1016061375.htm)
 Master’s Thesis, 2016
-(This was my final graduation thesis focusing on stereo vision–based robot tracking.)
+(This was my college graduation thesis focusing on stereo vision–based robot tracking.)
 
 
 ## 🎨 Hobbies
 
-- 🎵 Music  
-- 📷 Photography  
-These keep my creativity alive beyond engineering.
+- 🎵 Music: listen and sing classic, Punjabi, alternative, R&B, Rock, Jazz and some mixed..
+- 📷 Photography: some Sony digitals..
+  
+just keep my creativity alive beyond engineering..
 
 ---
 

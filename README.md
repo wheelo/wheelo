@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi there, I'm Frank River(wheelo) 👋</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Infra & LLMOps Enthusiast</h3>
+<h3 align="center">Full-Stack Developer • Infra & LLMOps • Cross-Platform</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wheelo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />

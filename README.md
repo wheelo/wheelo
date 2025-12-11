@@ -47,7 +47,7 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 ### 🔹 **Cross-Platform Development**
 - React Native  
 - **Flutter**
-- *know (a little bit) about KMP*
+- *CMP, KMP, ArkTS*
 
 ---
 

@@ -40,9 +40,9 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 - **VS Code & VS Code Extension Development**
 
 ### 🔹 **DevOps**
-- Kubernetes (K8s) / Docker
-- Linux / Centos / shell
-- Nginx / CI&CD / jenkins / devcontainers..
+- Kubernetes (K8s) / devcontainers / Docker / shell / nginx / lb
+- serverless
+- AWS, Vercel, Alibaba/Tencent/ByteDance/Google/Huawei/Baidu Cloud..
 
 ### 🔹 **Cross-Platform Development**
 - React Native  
@@ -86,9 +86,9 @@ just keep my creativity alive beyond engineering..
 
 ## 🤝 Open for Collaboration
 
-I'm open to **remote work**, open-source collaboration, and AI-related projects.
+Hire me! I'm open to **remote work**, collaboration, and AI development.
 
-📫 **Email me anytime:** **wheelo@163.com**
+📫 **Email me anytime:** **dongmenwuhen@gmail.com** and **wheelo@163.com**
 
 
 ---
@@ -102,6 +102,6 @@ I'm open to **remote work**, open-source collaboration, and AI-related projects.
 </p>
 
 
-⭐️ *feel free to star my projects or connect with me!*
+⭐️ feel free to star my projects or connect with me!
 
 *Fun fact: my new name Frank River is inspired by Frank Ocean*

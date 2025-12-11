@@ -13,7 +13,6 @@
 I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
 My main research interests focus on:
 
-- **Deep Learning, AI, Machine Learning**
 - **LLM, LLMOps, AI Infra**
 - **AI Coding workflows & Developer Tools**
 - **Full-stack engineering and cross-platform app development**

@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi there, I'm Frank River(wheelo) 👋</h1>
+<h1 align="center">Hi there, I'm Leibniiz 👋</h1>
 <h3 align="center">Full-Stack Developer • Infra & LLMOps • Cross-Platform</h3>
 
 <p align="center">
@@ -102,5 +102,3 @@ Hire me! I'm open to **remote work**, collaboration, and AI development.
 
 
 ⭐️ feel free to star my projects or connect with me!
-
-*Fun fact: my new name Frank River is inspired by Frank Ocean*

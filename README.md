@@ -1,6 +1,6 @@
 <!-- Banner -->
-<h1 align="center">Hi there, I'm Leibniiz 👋</h1>
-<h3 align="center">Full-Stack Developer • Infra & LLMOps • Cross-Platform</h3>
+<h1 align="center">Hi there, I'm Frank 👋</h1>
+<h3 align="center">Full-Stack • Infra & LLMOps • Cross Platform</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wheelo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -24,7 +24,7 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 ## Tech Stack & Skills
 
 ### 🔹 **Backend**
-- **Node.js**, PHP, Python  
+- **Node.js**, PHP, Python, kotlin  
 - MySQL, PostgreSQL  
 
 ### 🔹 **AI Infra**
@@ -39,14 +39,14 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 - **VS Code & VS Code Extension Development**
 
 ### 🔹 **DevOps**
-- Kubernetes (K8s) / devcontainers / Docker / shell / nginx / lb
-- serverless
-- AWS, Vercel, Alibaba/Tencent/ByteDance/Google/Huawei/Baidu Cloud..
+- K8s / Docker / shell / nginx / lb
+- serverless, devcontainers
+- AWS, Vercel
 
 ### 🔹 **Cross-Platform Development**
 - React Native  
 - **Flutter**
-- *CMP, KMP, ArkTS*
+- *CMP, KMP, Huawei ArkTS*
 
 ---
 

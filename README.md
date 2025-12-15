@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">Hi there, I'm Frank 👋</h1>
+<h1 align="center">Hi, This is Frank Aang</h1>
 <h3 align="center">Full-Stack • Infra & LLMOps • Cross Platform</h3>
 
 <p align="center">
@@ -13,9 +13,9 @@
 I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
 My main research interests focus on:
 
+- **Full-stack engineering and cross-platform app development**
 - **LLM, LLMOps, AI Infra**
 - **AI Coding workflows & Developer Tools**
-- **Full-stack engineering and cross-platform app development**
 
 I enjoy building developer-friendly tools, AI infrastructures, and scalable systems that actually solve problems.
 
@@ -23,25 +23,19 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 
 ## Tech Stack & Skills
 
-### 🔹 **Cross Platform**
+### Cross Platform
 - **CMP, KMP, Huawei ArkTS**(Currently)
 - **Flutter**, RN
 - **VS Code & it's extension**
 
-### 🔹 **Backend**
-- Kotlin, TypeScript, **Node.js**, PHP, Python
+### Backend
+- **Node.js**, PHP
 - MySQL, PostgreSQL  
 
-### 🔹 **AI Infra**
+### AI Infra && OP
 - **LLM, LLMOps, AI Infra, MLLMs, AI Coding agents**
-- Model deployment & optimization  
-- vLLM / FastAPI / Model serving  
-
-### 🔹 **DevOps**
-- K8s / Docker / shell / nginx / lb
-- serverless, devcontainers
-- AWS, Vercel
-
+- vLLM / FastAPI / Model serving and deployment
+- K8s / Docker / shell / nginx / serverless
 
 ---
 

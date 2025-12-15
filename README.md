@@ -23,30 +23,25 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 
 ## Tech Stack & Skills
 
+### 🔹 **Cross Platform**
+- **CMP, KMP, Huawei ArkTS**(Currently)
+- **Flutter**, RN
+- **VS Code & it's extension**
+
 ### 🔹 **Backend**
-- **Node.js**, PHP, Python, kotlin  
+- Kotlin, TypeScript, **Node.js**, PHP, Python
 - MySQL, PostgreSQL  
 
 ### 🔹 **AI Infra**
 - **LLM, LLMOps, AI Infra, MLLMs, AI Coding agents**
 - Model deployment & optimization  
-- vLLM / FastAPI / OpenAI / Model serving  
-- ReRank && Embedding
-
-### 🔹 **Frontend**
-- **React**, Vue  
-- TypeScript / JavaScript  
-- **VS Code & VS Code Extension Development**
+- vLLM / FastAPI / Model serving  
 
 ### 🔹 **DevOps**
 - K8s / Docker / shell / nginx / lb
 - serverless, devcontainers
 - AWS, Vercel
 
-### 🔹 **Cross-Platform Development**
-- React Native  
-- **Flutter**
-- *CMP, KMP, Huawei ArkTS*
 
 ---
 

@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 About Me
+## About
 
 I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
 My main research interests focus on:
@@ -41,7 +41,7 @@ I program with Kotlin, TypeScript, **Node.js**, PHP, Python
 ---
 
 
-## Publications and Works
+## partial works of mine
 Here are some works I published during university:
 
 [Object Tracking Based on Particle Filter with Improved Camshift](https://ascidatabase.com/ascidetail.php?doi=jas.2014.121.128)
@@ -64,20 +64,19 @@ Master’s Thesis, 2016
 (This was my college graduation thesis focusing on stereo vision–based robot tracking.)
 
 
-## 🎨 Hobbies
+## Hobby
 
-- 🎵 Music: listen and sing classic, Punjabi, alternative, R&B, Rock, Jazz and some mixed..
-- 📷 Photography: some Sony digitals..
+- music: listen & sing classic, Punjabi, alternative, R&B, Jazz
+- photography: some Sony digitals
+- climbing mountains
   
-just keep my creativity alive beyond engineering..
-
 ---
 
-## 🤝 Open for Collaboration
+## Collaboration
 
 Hire me! I'm open to **remote work**, collaboration, and AI development.
 
-📫 **Email me anytime:** **dongmenwuhen@gmail.com** and **wheelo@163.com**
+**Email me anytime:** **dongmenwuhen@gmail.com** and **wheelo@163.com**
 
 
 ---
@@ -91,4 +90,4 @@ Hire me! I'm open to **remote work**, collaboration, and AI development.
 </p>
 
 
-⭐️ feel free to star my projects or connect with me!
+**feel free to star my projects or connect with me!**

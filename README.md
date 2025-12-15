@@ -22,6 +22,7 @@ I enjoy building developer-friendly tools, AI infrastructures, and scalable syst
 ---
 
 ## Tech Stack & Skills
+I program with Kotlin, TypeScript, **Node.js**, PHP, Python
 
 ### Cross Platform
 - **CMP, KMP, Huawei ArkTS**(Currently)

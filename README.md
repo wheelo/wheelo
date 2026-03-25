@@ -13,30 +13,30 @@
 I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
 My main research interests focus on:
 
-- **Full-stack engineering and cross-platform app development**
-- **LLM, LLMOps, AI Infra**
-- **AI Coding workflows & Developer Tools**
+- **Compiler, Debugger, LLVM, LLDB**
+- **KMP, cross-platform, Android Studio Plugin**
+- **AI Coding, AI Agent, AI Infra**
 
 I enjoy building developer-friendly tools, AI infrastructures, and scalable systems that actually solve problems.
 
 ---
 
 ## Tech Stack & Skills
-I program with Kotlin, TypeScript, **Node.js**, PHP, Python
+I program with Kotlin, TypeScript, Node.js, C++, Python
 
 ### Cross Platform
-- **CMP, KMP, Huawei ArkTS**(Currently)
+- **CMP, KMP, ArkTS**(Currently)
 - **Flutter**, RN
-- **VS Code & it's extension**
+- **Intellij Plugin**
 
-### Backend
-- **Node.js**, PHP
-- MySQL, PostgreSQL  
+### Compiler
+- Kotlin Debugger
+- Kotlin Native
 
 ### AI Infra && OP
-- **LLM, LLMOps, AI Infra, MLLMs, AI Coding agents**
-- vLLM / FastAPI / Model serving and deployment
-- K8s / Docker / shell / nginx / serverless
+- **AI Infra, AI Coding**
+- vLLM
+- K8s / Docker
 
 ---
 

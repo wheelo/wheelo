@@ -13,7 +13,7 @@
 I'm a software engineer based in **Shanghai, China** (previously in Chengdu).  
 My main research interests focus on:
 
-- **Kotlin Debugger (I made the first Debugger for the KMP OHOS), LLDB, Compiler**
+- **Kotlin/Native Debugger (which I currently focus on), LLDB, Compiler**
 - **KMP, CMP, Android Studio Plugin**
 - **AI Coding**
 ---

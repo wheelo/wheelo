@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">Hi, I am Xiaolong Peng</h1>
-<h3 align="center">Full-Stack • Infra & LLMOps • Cross Platform</h3>
+<h3 align="center">Kotlin/Native • Compiler • Debugger & LLVM • LLDB</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=wheelo&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
@@ -13,30 +13,28 @@
 I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
 My main research interests focus on:
 
-- **Compiler, Debugger, LLVM, LLDB**
-- **KMP, cross-platform, Android Studio Plugin**
-- **AI Coding, AI Agent, AI Infra**
-
-I enjoy building developer-friendly tools, AI infrastructures, and scalable systems that actually solve problems.
-
+- **Kotlin Debugger (I made the first Debugger for the KMP OHOS), LLDB, Compiler**
+- **KMP, CMP, Android Studio Plugin**
+- **AI Coding**
 ---
 
 ## Tech Stack & Skills
-I program with Kotlin, TypeScript, Node.js, C++, Python
+I program with Kotlin, C++, TypeScript, Node.js, Python
 
 ### Cross Platform
 - **CMP, KMP, ArkTS**(Currently)
-- **Flutter**, RN
+- **Flutter**, React Native
 - **Intellij Plugin**
 
 ### Compiler
-- Kotlin Debugger
+- Kotlin K2
 - Kotlin Native
+- Compiler Optimization
 
 ### AI Infra && OP
-- **AI Infra, AI Coding**
+- AI Coding
+- LLM Infra
 - vLLM
-- K8s / Docker
 
 ---
 
@@ -69,25 +67,14 @@ Master’s Thesis, 2016
 - music: listen & sing classic, Punjabi, alternative, R&B, Jazz
 - photography: some Sony digitals
 - climbing mountains
+- play games: Chrono Trigger, Pokemon, King of Fighter..
   
 ---
 
 ## Collaboration
 
-Hire me! I'm open to **remote work**, collaboration, and AI development.
+Hire me! I'm open to **remote work**, collaboration, and AI development. I speak English and Chinese.
 
 **Email me anytime:** **dongmenwuhen@gmail.com** and **wheelo@163.com**
-
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Infra-%F0%9F%9A%80-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLMOps-%F0%9F%A4%96-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-%F0%9F%8E%A8-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/VS%20Code%20Extensions-%E2%9C%94%EF%B8%8F-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge" />
-</p>
-
 
 **feel free to star my projects or connect with me!**

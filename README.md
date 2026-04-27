@@ -10,7 +10,7 @@
 
 ## About
 
-I'm a software engineer based in **Jiangsu, China** (previously in Chengdu).  
+I'm a software engineer based in **Shanghai, China** (previously in Chengdu).  
 My main research interests focus on:
 
 - **Kotlin Debugger (I made the first Debugger for the KMP OHOS), LLDB, Compiler**
